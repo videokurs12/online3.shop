@@ -1,0 +1,14 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/fonts/gilroy-bold.woff": "/fonts/gilroy-bold.woff",
+    "/fonts/gilroy-bold.woff2": "/fonts/gilroy-bold.woff2",
+    "/fonts/gilroy-light.woff": "/fonts/gilroy-light.woff",
+    "/fonts/gilroy-light.woff2": "/fonts/gilroy-light.woff2",
+    "/fonts/gilroy-medium.woff": "/fonts/gilroy-medium.woff",
+    "/fonts/gilroy-medium.woff2": "/fonts/gilroy-medium.woff2",
+    "/fonts/gilroy-regular.woff": "/fonts/gilroy-regular.woff",
+    "/fonts/gilroy-regular.woff2": "/fonts/gilroy-regular.woff2",
+    "/fonts/gilroy-semibold.woff": "/fonts/gilroy-semibold.woff",
+    "/fonts/gilroy-semibold.woff2": "/fonts/gilroy-semibold.woff2"
+}
